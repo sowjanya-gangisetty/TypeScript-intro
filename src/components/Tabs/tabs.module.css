@@ -1,0 +1,9 @@
+.tabs {
+    margin: 32px 0;
+    display : inline-flex;
+    gap :8px;
+}
+.tab{
+    padding: 8px 6px;
+    cursor: pointer;
+}

@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+html {
+  height: 100vh;
+}
+body {
+  margin: 0;
+  height: 100%;
+  
+}
+.codeBlock {
+  background-color: lightgray;
+  padding: 16px;
+  border-radius: 4px;
+  color:tomato;
+}

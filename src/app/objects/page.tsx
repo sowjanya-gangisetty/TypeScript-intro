@@ -13,7 +13,7 @@ const Objects = () => {
         rules: null
     }
     let Cricket: Sport = {
-        name: "cricket",
+        name: "crickets",
         players: 11,
         equipment: "bat and ball",
         rules: null

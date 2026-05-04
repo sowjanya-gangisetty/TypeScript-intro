@@ -36,7 +36,7 @@ const Objects = () => {
         name: "John",
         age: 20,
         class : "FED",
-        
+        printName: () => "John"
     }
 
  type classRep = student & {
@@ -46,7 +46,8 @@ const Objects = () => {
         name: "Jane",
         age: 22,
         class:"FED",
-        phone: 1234567890
+        phone: 1234567890,
+        printName: () => "John"
     }
     const Bob: classRep = {...John, phone: 987654321}
 
